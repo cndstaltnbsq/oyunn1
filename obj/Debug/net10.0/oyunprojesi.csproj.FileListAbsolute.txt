@@ -1,0 +1,14 @@
+c:\Users\cando\proje1\oyunprojesi\bin\Debug\net10.0\oyunprojesi.exe
+C:\Users\cando\proje1\oyunprojesi\bin\Debug\net10.0\oyunprojesi.deps.json
+C:\Users\cando\proje1\oyunprojesi\bin\Debug\net10.0\oyunprojesi.runtimeconfig.json
+c:\Users\cando\proje1\oyunprojesi\bin\Debug\net10.0\oyunprojesi.dll
+c:\Users\cando\proje1\oyunprojesi\bin\Debug\net10.0\oyunprojesi.pdb
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.AssemblyInfoInputs.cache
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.AssemblyInfo.cs
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.csproj.CoreCompileInputs.cache
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.dll
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\refint\oyunprojesi.dll
+c:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.pdb
+C:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\oyunprojesi.genruntimeconfig.cache
+C:\Users\cando\proje1\oyunprojesi\obj\Debug\net10.0\ref\oyunprojesi.dll
